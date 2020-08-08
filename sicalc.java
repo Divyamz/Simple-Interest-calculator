@@ -26,6 +26,7 @@ class sicalc{
     int amount =price + interest ;
     System.out.println("Here is your simple interest  :$" + interest);
     System.out.print("And here is your total amount  :$" + amount);
+    //whoop!
 
   }
 }
